@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arkap1502&label=Profile%20views&color=0e75b6&style=flat" alt="arkap1502" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arkap1502" alt="arkap1502" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [ALTRON Password Inspector](https://arkap1502.github.io/password-making/)
+- 🔭 I’m currently working on [ALTRON Password Inspector](https://github.com/arkap1502/Humanize-AI.git)
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I’m looking to collaborate on [Sentinel AI · URL Scanner](https://arkap1502.github.io/URL-Scanner/)
+- 👯 I’m looking to collaborate on [Sentinel AI · URL Scanner](https://github.com/arkap1502/Humanize-AI.git)
 
-- 🤝 I’m looking for help with [Sentinel AI — Advanced URL Threat Scanner](https://arkap1502.github.io/URL-Password-Checker/)
+- 🤝 I’m looking for help with [Sentinel AI — Advanced URL Threat Scanner](https://github.com/arkap1502/vulnerability-scanner.git)
 
 - 👨‍💻 All of my projects are available at [https://arkap1502.github.io/portfolio/](https://arkap1502.github.io/portfolio/)
 
