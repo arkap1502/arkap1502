@@ -61,15 +61,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=arkap1502&show_icons=true&theme=default&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkap1502&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### Connect with me
 
 <p align="left">
