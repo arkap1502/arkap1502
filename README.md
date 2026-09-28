@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <a href="https://portfolio-ten-gold-16.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-ff2e0e?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+</p>
+
+<p align="center">
   <a href="https://portfolio-ten-gold-16.vercel.app">Portfolio</a> •
   <a href="https://github.com/arkap1502">GitHub</a> •
   <a href="https://www.linkedin.com/in/arka-patra-579110422/">LinkedIn</a> •
