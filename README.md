@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://arkap1502.github.io/portfolio/">Portfolio</a> •
+  <a href="https://portfolio-ten-gold-16.vercel.app">Portfolio</a> •
   <a href="https://github.com/arkap1502">GitHub</a> •
   <a href="https://www.linkedin.com/in/arka-patra-579110422/">LinkedIn</a> •
   <a href="mailto:arkap1502@gmail.com">Email</a>
