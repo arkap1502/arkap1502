@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arkap1502&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=arkap1502.arkap1502&left_text=Profile%20views&left_color=%23555555&right_color=%230e75b6" alt="profile views" />
   <img src="https://img.shields.io/github/followers/arkap1502?label=Followers&style=flat&color=00ff41" alt="followers" />
 </p>
 
