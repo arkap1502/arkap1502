@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi, I'm Arka Patra 🛡️</h1>
 <h3 align="center">Cyber Security Student | Security-Focused Developer from India</h3>
+<p align="center"><em>Curious by nature, cautious by design — building tools that make the web a little safer.</em></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=480&lines=root%40arka%3A~%24+whoami;Cyber+Security+Student;Security-Focused+Developer;Break+Things+%7C+Secure+Things" alt="typing" />
