@@ -59,4 +59,3 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 [Portfolio](https://portfolio-ten-gold-16.vercel.app/) · [GitHub](https://github.com/arkap1502) · [LinkedIn](https://www.linkedin.com/in/arka-patra-579110422/) · [X](https://x.com/arkap1502) · [Instagram](https://www.instagram.com/_its_me_chikuuuu/?hl=en) · [Email](mailto:arkap1502@gmail.com)
 
-<sub>More projects and an older portfolio: [portfolio archive](https://arkap1502.github.io/portfolio/).</sub>
