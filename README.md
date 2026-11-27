@@ -73,12 +73,12 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=arkap1502&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkap1502&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=arkap1502&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkap1502&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&theme=github-dark-blue&hide_border=true&background=0D1117)
+![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&theme=tokyonight&hide_border=true)
 
-![GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkap1502&theme=github_dark)
+![GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkap1502&theme=tokyonight)
 
 </div>
 
