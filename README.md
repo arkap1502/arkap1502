@@ -9,8 +9,8 @@ I build practical tools for a safer web and learn by taking systems apart, under
 
 [Portfolio](https://portfolio-ten-gold-16.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arka-patra-579110422/) · [Email](mailto:arkap1502@gmail.com)
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=arkap1502.arkap1502&left_text=PROFILE%20VIEWS&left_color=161b22&right_color=2ea879)
-![Followers](https://img.shields.io/github/followers/arkap1502?label=FOLLOWERS&style=flat&color=2ea879)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=arkap1502.arkap1502&left_text=PROFILE%20VIEWS&left_color=0d1117&right_color=00f5ff)
+![Followers](https://img.shields.io/github/followers/arkap1502?label=FOLLOWERS&style=flat&color=ff007f&labelColor=0d1117)
 
 </div>
 
@@ -73,12 +73,12 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=arkap1502&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkap1502&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=arkap1502&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=00f5ff&icon_color=ff007f&text_color=e2e8f0&border_color=00f5ff" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkap1502&layout=compact&theme=synthwave&bg_color=0d1117&title_color=00f5ff&text_color=e2e8f0&border_color=ff007f" alt="Most used languages" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&theme=tokyonight&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&background=0d1117&border=00f5ff&stroke=1f2937&ring=00f5ff&fire=ff007f&currStreakNum=ff007f&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=a855f7&dates=94a3b8)
 
-![GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkap1502&theme=tokyonight)
+![GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkap1502&theme=synthwave)
 
 </div>
 
