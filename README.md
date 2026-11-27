@@ -28,20 +28,7 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 ---
 
-## 02 / Selected work
-
-| Project | A quick look | Explore |
-|:--|:--|:--|
-| **ALTRON Password Inspector** | Client-side password generator and strength checker using `crypto.getRandomValues()`. | [Live demo](https://arkap1502.github.io/password-making/) · [Source](https://github.com/arkap1502/password-making) |
-| **URL Threat Scanner** | Scores URLs from 0–100 and checks for raw IP hosts, suspicious TLDs, typosquatting, and phishing terms. | [Live demo](https://arkap1502.github.io/URL-Scanner/) · [Source](https://github.com/arkap1502/URL-Scanner) |
-| **WiFi Password Finder** | Helps recover your own saved Wi-Fi passwords with Python (`netsh` / `nmcli`) or browser paste mode. | [Live demo](https://arkap1502.github.io/Wifi-password-founder/) · [Source](https://github.com/arkap1502/Wifi-password-founder) |
-| **Humanize AI** | Browser-based text rewriting that works offline, with a React + Express version. | [Live demo](https://arkap1502.github.io/Humanize-AI/) · [Source](https://github.com/arkap1502/Humanize-AI) |
-
-> **Also exploring:** [URL & Password Checker](https://github.com/arkap1502/URL-Password-Checker) · [NexVault demo](https://secure-vault-system.onrender.com/)
-
----
-
-## 03 / Toolkit
+## 02 / Toolkit
 
 <div align="center">
 
@@ -82,7 +69,7 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 ---
 
-## 04 / GitHub activity
+## 03 / GitHub activity
 
 <div align="center">
 
@@ -97,7 +84,7 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 ---
 
-## 05 / Find me
+## 04 / Find me
 
 <div align="center">
 
