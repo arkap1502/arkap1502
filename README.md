@@ -78,8 +78,6 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 ![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&background=0d1117&border=00f5ff&stroke=1f2937&ring=00f5ff&fire=ff007f&currStreakNum=ff007f&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=a855f7&dates=94a3b8)
 
-![GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkap1502&theme=synthwave)
-
 </div>
 
 ---
