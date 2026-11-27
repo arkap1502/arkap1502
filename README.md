@@ -76,7 +76,7 @@ Off-screen           Introvert by default, extrovert in the terminal
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=arkap1502&show_icons=true&theme=synthwave&bg_color=0d1117&title_color=00f5ff&icon_color=ff007f&text_color=e2e8f0&border_color=00f5ff" alt="GitHub stats" />
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkap1502&layout=compact&theme=synthwave&bg_color=0d1117&title_color=00f5ff&text_color=e2e8f0&border_color=ff007f" alt="Most used languages" />
 
-![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&background=0d1117&border=00f5ff&stroke=1f2937&ring=00f5ff&fire=ff007f&currStreakNum=ff007f&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=a855f7&dates=94a3b8)
+![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&card_width=720&background=0d1117&border=00f5ff&stroke=1f2937&ring=00f5ff&fire=ff007f&currStreakNum=ff007f&sideNums=00f5ff&currStreakLabel=00f5ff&sideLabels=a855f7&dates=94a3b8)
 
 </div>
 
