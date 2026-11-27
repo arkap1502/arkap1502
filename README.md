@@ -41,15 +41,17 @@ Off-screen           Introvert by default, extrovert in the terminal
 
 <div align="center">
 
-![Python, JavaScript, TypeScript, HTML, CSS, C, Java, Rust](https://skillicons.dev/icons?i=py,js,ts,html,css,c,java,rust&theme=dark)
+![Python, JavaScript, TypeScript, HTML, CSS, C, Java, Rust](https://skillicons.dev/icons?i=py,js,ts,html,css,c,java,rust&theme=dark)  
+`Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS` · `C` · `Java` · `Rust`
 
-![Flask, FastAPI, React, Next.js, Node.js, Express, Vite, Tailwind CSS, Tauri](https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,nodejs,express,vite,tailwind,tauri&theme=dark)
+![Flask, FastAPI, React, Next.js, Node.js, Express, Vite, Tailwind CSS, Tauri](https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,nodejs,express,vite,tailwind,tauri&theme=dark)  
+`Flask` · `FastAPI` · `React` · `Next.js` · `Node.js` · `Express` · `Vite` · `Tailwind CSS` · `Tauri`
 
-![PostgreSQL, SQLite, Prisma, Redis, PyTorch, scikit-learn, OpenCV](https://skillicons.dev/icons?i=postgres,sqlite,prisma,redis,pytorch,sklearn,opencv&theme=dark)
+![PostgreSQL, SQLite, Prisma, Redis, PyTorch, scikit-learn, OpenCV](https://skillicons.dev/icons?i=postgres,sqlite,prisma,redis,pytorch,sklearn,opencv&theme=dark)  
+`PostgreSQL` · `SQLite` · `Prisma` · `Redis` · `PyTorch` · `scikit-learn` · `OpenCV`
 
-![Docker, Linux, Git, VS Code, pytest, Vitest, Playwright](https://skillicons.dev/icons?i=docker,linux,git,vscode,pytest,vitest,playwright&theme=dark)
-
-`Python` · `JavaScript` · `TypeScript` · `HTML/CSS` · `C` · `Java` · `Rust` · `Flask` · `FastAPI` · `React` · `Next.js` · `Node.js` · `Express` · `Vite` · `Tailwind CSS` · `Tauri` · `PostgreSQL` · `SQLite` · `Prisma` · `SQLAlchemy` · `Redis` · `PyTorch` · `scikit-learn` · `OpenCV` · `Docker` · `pytest` · `Vitest` · `Playwright` · `Web security` · `Chrome Extensions` · `Linux` · `Git` · `VS Code`
+![Docker, Linux, Git, VS Code, Vitest](https://skillicons.dev/icons?i=docker,linux,git,vscode,vitest&theme=dark)  
+`Docker` · `Linux` · `Git` · `VS Code` · `Vitest`
 
 </div>
 
