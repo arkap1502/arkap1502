@@ -1,31 +1,70 @@
-<h1 align="center">Hi 👋, I'm Arka Patra</h1>
-<h3 align="center">A Passionate Cybersecurity Professional from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arkap1502&label=Profile%20views&color=0e75b6&style=flat" alt="arkap1502" /> </p>
+# ARKA PATRA
 
-- 🔭 I’m currently working on [ALTRON Password Inspector](https://github.com/arkap1502/Humanize-AI.git)
+### Cybersecurity student · Security-minded developer · India
 
-- 🌱 I’m currently learning **Cyber Security**
+**Curious by nature. Cautious by design.**  
+I build practical tools for a safer web and learn by taking systems apart, understanding them, and making them better.
 
-- 👯 I’m looking to collaborate on [Sentinel AI · URL Scanner](https://github.com/arkap1502/Humanize-AI.git)
+[Portfolio](https://portfolio-ten-gold-16.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/arka-patra-579110422/) · [Email](mailto:arkap1502@gmail.com)
 
-- 🤝 I’m looking for help with [Sentinel AI — Advanced URL Threat Scanner](https://github.com/arkap1502/vulnerability-scanner.git)
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=arkap1502.arkap1502&left_text=PROFILE%20VIEWS&left_color=161b22&right_color=2ea879)
+![Followers](https://img.shields.io/github/followers/arkap1502?label=FOLLOWERS&style=flat&color=2ea879)
 
-- 👨‍💻 All of my projects are available at [https://arkap1502.github.io/portfolio/](https://arkap1502.github.io/portfolio/)
+</div>
 
-- 💬 Ask me about **My Hobby**
+---
 
-- 📫 How to reach me **arkap1502@gmail.com**
+## 01 / About
 
-- 📄 Know about my experiences [https://acrobat.adobe.com/id/urn:aaid:sc:ap:58df3e72-3338-44f7-baa1-cfc9659b7d34](https://acrobat.adobe.com/id/urn:aaid:sc:ap:58df3e72-3338-44f7-baa1-cfc9659b7d34)
+```text
+Currently studying   B.Sc. Cyber Security · Guru Nanak Institute of Technology · 2024–present
+Exploring            Web security, Python, phishing analysis
+Building             WiFi Password Finder, NexVault
+Open to              Security tools and web development collaborations
+Off-screen           Introvert by default, extrovert in the terminal
+```
 
-- ⚡ Fun fact **I think I am quite introvert**
+## 02 / Selected work
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/arka patra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arka patra" height="30" width="40" /></a>
-<a href="https://instagram.com/_its_me_chikuuuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_its_me_chikuuuu" height="30" width="40" /></a>
-</p>
+| Project | A quick look | Explore |
+|:--|:--|:--|
+| **ALTRON Password Inspector** | Client-side password generator and strength checker using `crypto.getRandomValues()`. | [Live demo](https://arkap1502.github.io/password-making/) · [Source](https://github.com/arkap1502/password-making) |
+| **URL Threat Scanner** | Scores URLs from 0–100 and checks for raw IP hosts, suspicious TLDs, typosquatting, and phishing terms. | [Live demo](https://arkap1502.github.io/URL-Scanner/) · [Source](https://github.com/arkap1502/URL-Scanner) |
+| **WiFi Password Finder** | Helps recover your own saved Wi-Fi passwords with Python (`netsh` / `nmcli`) or browser paste mode. | [Live demo](https://arkap1502.github.io/Wifi-password-founder/) · [Source](https://github.com/arkap1502/Wifi-password-founder) |
+| **Humanize AI** | Browser-based text rewriting that works offline, with a React + Express version. | [Live demo](https://arkap1502.github.io/Humanize-AI/) · [Source](https://github.com/arkap1502/Humanize-AI) |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+**Also exploring:** [URL & Password Checker](https://github.com/arkap1502/URL-Password-Checker) · [NexVault demo](https://secure-vault-system.onrender.com/)
+
+## 03 / Toolkit
+
+<div align="center">
+
+![Python, JavaScript, TypeScript, HTML, CSS, C, Java, Rust](https://skillicons.dev/icons?i=py,js,ts,html,css,c,java,rust&theme=dark)
+
+![Flask, FastAPI, React, Next.js, Node.js, Express, Vite, Tailwind CSS, Tauri](https://skillicons.dev/icons?i=flask,fastapi,react,nextjs,nodejs,express,vite,tailwind,tauri&theme=dark)
+
+![PostgreSQL, SQLite, Prisma, Redis, PyTorch, scikit-learn, OpenCV](https://skillicons.dev/icons?i=postgres,sqlite,prisma,redis,pytorch,sklearn,opencv&theme=dark)
+
+![Docker, Linux, Git, VS Code, pytest, Vitest, Playwright](https://skillicons.dev/icons?i=docker,linux,git,vscode,pytest,vitest,playwright&theme=dark)
+
+`Python` · `JavaScript` · `TypeScript` · `HTML/CSS` · `C` · `Java` · `Rust` · `Flask` · `FastAPI` · `React` · `Next.js` · `Node.js` · `Express` · `Vite` · `Tailwind CSS` · `Tauri` · `PostgreSQL` · `SQLite` · `Prisma` · `SQLAlchemy` · `Redis` · `PyTorch` · `scikit-learn` · `OpenCV` · `Docker` · `pytest` · `Vitest` · `Playwright` · `Web security` · `Chrome Extensions` · `Linux` · `Git` · `VS Code`
+
+</div>
+
+<sub>**Where each stack came from** — `PostgreSQL` · UniBridge, Learnova, Email_Scanner(SIH), Secure-Vault-System, Fake ID Screening &nbsp;|&nbsp; `Prisma` · UniBridge &nbsp;|&nbsp; `SQLAlchemy` + `Alembic` · Learnova, Assembly, Email_Scanner(SIH), Secure-Vault-System &nbsp;|&nbsp; `Redis` · Learnova, Email_Scanner(SIH) &nbsp;|&nbsp; `Flask` · Secure-Vault-System, vaultline, Deepfake Detector, Hidden-prompt Scanner, Vulnerability Scanner &nbsp;|&nbsp; `FastAPI` · Learnova, Assembly, Email_Scanner(SIH), URL Threat Scanner, Website Security Copilot, Fake ID Screening &nbsp;|&nbsp; `Next.js` + `TypeScript` + `Tailwind` · UniBridge, Learnova, Assembly, Website Security Copilot &nbsp;|&nbsp; `React` + `Vite` · Humanize AI, Quishing Guard, Email_Scanner(SIH), Fake ID Screening &nbsp;|&nbsp; `Express` · Humanize AI backend &nbsp;|&nbsp; `Tauri` + `Rust` · Assembly desktop &nbsp;|&nbsp; `PyTorch` + `OpenCV` · Deepfake-Image-Tampering-Detector, Fake ID Screening &nbsp;|&nbsp; `scikit-learn` · URL Threat Scanner, Email_Scanner(SIH), Fake ID Screening &nbsp;|&nbsp; `SQLite` · URL Threat Scanner, Deepfake Detector, Phishing Awareness Simulator &nbsp;|&nbsp; `Docker` · Assembly, Email_Scanner(SIH), Fake ID Screening, Website Security Copilot, GNIT-workshop &nbsp;|&nbsp; `pytest` / `Vitest` / `Playwright` · Assembly, Learnova, Email_Scanner(SIH), Deepfake Detector &nbsp;|&nbsp; `Chrome Extensions` · Website Security Copilot, Noise Cancellation Extension &nbsp;|&nbsp; `C` & `Java` · past fundamentals</sub>
+
+## 04 / GitHub activity
+
+<div align="center">
+
+![GitHub streak](https://streak-stats.demolab.com?user=arkap1502&theme=github-dark-blue&hide_border=true&background=0D1117)
+
+</div>
+
+## 05 / Find me
+
+[Portfolio](https://portfolio-ten-gold-16.vercel.app/) · [GitHub](https://github.com/arkap1502) · [LinkedIn](https://www.linkedin.com/in/arka-patra-579110422/) · [X](https://x.com/arkap1502) · [Instagram](https://www.instagram.com/_its_me_chikuuuu/?hl=en) · [Email](mailto:arkap1502@gmail.com)
+
+<sub>More projects and an older portfolio: [portfolio archive](https://arkap1502.github.io/portfolio/).</sub>
